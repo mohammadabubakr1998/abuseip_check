@@ -7,6 +7,7 @@ import numpy as np
 # env_var = os.environ
 # api_key = env_var["ABUSEIP_KEY"]
 
+
 # Uncomment to read the AbuseIP API key from a file named k.txt
 k_file = open('k.txt', 'r')
 api_key = k_file.readline()
